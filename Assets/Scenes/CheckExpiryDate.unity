@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Checking Trial Expiry Date...
+  m_Text: 
 --- !u!222 &192389814
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -582,11 +582,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64fe2e4ddca35d34abdca1a3b5158b2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gnUserName: jlvoiseux
-  latitude: 50.8
-  longitude: 4.3
-  expiryDateString: 2031-08-28 18:40
+  gnUserName: 
+  latitude: 
+  longitude: 
+  expiryDateString: 2021-08-28 18:40
   UIText: {fileID: 192389813}
-  initialMessage: Checking Trial Expiry Date
+  initialMessage: Checking Trial Expiry Date...
   successMessage: Your Trial Licence is valid !
   failureMessage: Your Trial Licence has expired.
